@@ -17,7 +17,7 @@ This project presents an **Employee Data Analytics Dashboard** built using **Mic
 ---
 
 ## 📌 **Dashboard Preview**
-> Replace this link with your uploaded screenshot.
+
 
 ![Dashboard Screenshot](https://github.com/Indhiras6423/18-day-Excel-Challenge-Employee-Data-Analytics-Dashboard-/blob/main/dashboard.png.png)
 
@@ -73,8 +73,7 @@ This project presents an **Employee Data Analytics Dashboard** built using **Mic
 `=CLEAN(cell)`  
 `=COUNTIF(range, cell)>1`  
 
-### 📅 Tenure Calculation  
-`=DATEDIF(F2, TODAY(), "Y")`  
+---- 
 
 ### 🔍 Lookup Functions  
 `=VLOOKUP(A2, Range, 3, FALSE)`  
@@ -107,7 +106,7 @@ This Employee Data Analytics Dashboard demonstrates strong Excel-based analytica
 
 ## 💼 **Connect With Me**
 <p>
-<a href=["https://www.linkedin.com/"](https://www.linkedin.com/in/indhira4623/)>🔗 LinkedIn</a>  
+<a href="https://www.linkedin.com/in/indhira4623/">🔗 LinkedIn</a>
 </p>
 
 ---
